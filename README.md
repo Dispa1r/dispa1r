@@ -1,7 +1,7 @@
 ### Hi there is Dispa1r 👋
 
-- 🔭 I’m currently a post-graduate student, used to be a intern in `TrendMicro` and `NEAR protocol`
-- Now work in `Hisilicon` of `HUAWEI`
+- 🔭 I have a master degree in cs, used to be a intern in `TrendMicro` and `NEAR protocol`
+- Now work in `Hisilicon` of `Huawei`
 - 🌱 I’m currently learning Dapp development
 - Love Information Security and Web3!!!
 
