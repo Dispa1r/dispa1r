@@ -1,8 +1,7 @@
 ### Hi there is Dispa1r 👋
 
-- 🔭 I have a master degree in cs, used to be a intern in `TrendMicro` and `NEAR protocol`
-- Now work in `Hisilicon` of `Huawei`
-- 🌱 I’m currently learning Dapp development
+- 🔭 master degree in cs, used to be a intern in `TrendMicro` and `NEAR protocol`
+- Currently work in `Hisilicon` of `Huawei`
 - Love Information Security and Web3!!!
 
 [![Dispa1r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dispa1r)](https://github.com/anuraghazra/github-readme-stats)
